@@ -48,3 +48,19 @@ button{
 body{
     text-align: center;
 }
+/* 
+#video{
+    font-size: medium;
+    display: inline-flex;
+} */
+#icons{
+    display:inline-flex;
+    padding-inline: 2px, 2px, 2px, 2px;
+    font-size: medium;
+}
+/* #footer{
+    font-size: medium;
+} */
+.footer{
+    display: flex;
+}
