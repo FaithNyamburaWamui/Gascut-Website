@@ -1,7 +1,10 @@
 #outercontainer{
-    border:none;
+    border:solid skyblue 2px;
     display: grid;
-    grid-template-columns: 50% 50%;
+    grid-template-columns: 40% 60%;
+    padding-right: 20;
+
+
 
 
 }
@@ -11,8 +14,17 @@
 
 }
 #contentcontainer{
-    padding-top: 0%;
+    padding-top: 10%;
     margin: 0%;
     box-sizing:border-box ;
+    font-size:xx-large;
+
+}
+#photocontainer{
+    padding: 10% 10% 10%;
+}
+#star{
+    width: 70px;
+    height: 70px;
 
 }
