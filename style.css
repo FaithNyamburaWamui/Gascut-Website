@@ -48,11 +48,12 @@ button{
 body{
     text-align: center;
 }
-/* 
+
 #video{
     font-size: medium;
     display: inline-flex;
-} */
+    padding-top: 12%;
+} 
 #icons{
     display:inline-flex;
     padding-inline: 2px, 2px, 2px, 2px;
